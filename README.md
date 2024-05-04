@@ -1,6 +1,6 @@
 # Car-Prices-Poland
 # Note: python version=3.11.5
-# Usage
+# Installation
 ```
 pip install -r requirements.txt
 ```  
